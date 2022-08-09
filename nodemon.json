@@ -1,0 +1,4 @@
+{
+  "ignore": ["/src/public/*"],
+  "exec": "nodemon -L --exec babel-node src/server.js"
+}
